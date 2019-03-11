@@ -1,0 +1,20 @@
+/* CSS Document */
+
+.body{
+	height: inherit;
+	width: inherit;
+}
+.about{
+	height: 420px;/*420 20标签 400主体*/
+	width: 750px; /*750 20角 730主体*/
+	background-color: rgba(0,0,0,0.3);
+	box-shadow: 0 0 10px 1px rgba(255,255,255,0.50);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%); 
+	
+}
